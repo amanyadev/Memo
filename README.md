@@ -1,5 +1,5 @@
 # Memo
 Findings, Day to day tasks are saved here
 
-- [Procedural Animation](Pages/Procedural Animation)
+- [Procedural Animation](Pages/ProceduralAnimation)
 - [Repositories](Pages/Repositories.md)
